@@ -481,6 +481,7 @@ about__blob path {
 
 .work__year{
   font-size: var(--h3-font-size);
+  color: var(--title-color);
 }
 
 .work__line{
