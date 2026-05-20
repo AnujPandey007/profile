@@ -105,6 +105,13 @@ function sendEmail() {
   );
 }
 
+function viewResume() {
+  window.open(
+    "https://drive.google.com/file/d/114-8Mbyd51tQOYjGcwIYZ_u2pVZD_Vgp/view?usp=sharing",
+    "_blank"
+  );
+}
+
 function sendLeadership() {
   window.open(
     "https://play.google.com/store/apps/details?id=com.anujfilegot.aatmagyan",
